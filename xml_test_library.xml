@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LIBRARY shelf="PoMo Fiction">
+  <BOOK title="Infinite Jest">
+    <AUTHOR>David Foster Wallace</AUTHOR>
+    <PUBLISHER>Back Bay Books</PUBLISHER>
+  </BOOK>
+  <BOOK title="Underworld">
+    <AUTHOR>Don DeLillo</AUTHOR>
+    <PUBLISHER>Scribner</PUBLISHER>
+  </BOOK>
+  <BOOK title="You Bright and Risen Angels">
+    <AUTHOR>William T. Vollman</AUTHOR>
+    <PUBLISHER>Penguin</PUBLISHER>
+  </BOOK>
+  <BOOK title="Geek Love">
+    <AUTHOR>Katherine Dunn</AUTHOR>
+    <PUBLISHER>Vintage</PUBLISHER>
+  </BOOK>
+  <BOOK title="A Confederacy of Dunces">
+    <AUTHOR>John Kennedy Toole</AUTHOR>
+    <PUBLISHER>Grove Weidenfeld</PUBLISHER>
+  </BOOK>
+  <BOOK title="If on a Winter's Night a Traveler">
+    <AUTHOR>Italo Calvino</AUTHOR>
+    <PUBLISHER>Harcourt Brace Jovanovich</PUBLISHER>
+  </BOOK>
+  <BOOK title="Gravity's Rainbow">
+    <AUTHOR>Thomas Pynchon</AUTHOR>
+    <PUBLISHER>Penguin Classics</PUBLISHER>
+  </BOOK>
+</LIBRARY>

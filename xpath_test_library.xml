@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LIBRARY>
+  <BOOK>
+    <TITLE>Infinite Jest</TITLE>
+    <AUTHOR>David Foster Wallace</AUTHOR>
+    <PUBLISHER>Back Bay Books</PUBLISHER>
+  </BOOK>
+  <BOOK>
+    <TITLE>Underworld</TITLE>
+    <AUTHOR>Don DeLillo</AUTHOR>
+    <PUBLISHER>Scribner</PUBLISHER>
+  </BOOK>
+  <BOOK>
+    <TITLE>You Bright and Risen Angels</TITLE>
+    <AUTHOR>William T. Vollman</AUTHOR>
+    <PUBLISHER>Penguin</PUBLISHER>
+  </BOOK>
+  <BOOK>
+    <TITLE>Geek Love</TITLE>
+    <AUTHOR>Katherine Dunn</AUTHOR>
+    <PUBLISHER>Vintage</PUBLISHER>
+  </BOOK>
+  <BOOK>
+    <TITLE>A Confederacy of Dunces</TITLE>
+    <AUTHOR>John Kennedy Toole</AUTHOR>
+    <PUBLISHER>Grove Weidenfeld</PUBLISHER>
+  </BOOK>
+  <BOOK>
+    <TITLE>If on a Winter's Night a Traveler</TITLE>
+    <AUTHOR>Italo Calvino</AUTHOR>
+    <PUBLISHER>Harcourt Brace Jovanovich</PUBLISHER>
+  </BOOK>
+  <BOOK>
+    <TITLE>Gravity's Rainbow</TITLE>
+    <AUTHOR>Thomas Pynchon</AUTHOR>
+    <PUBLISHER>Penguin Classics</PUBLISHER>
+  </BOOK>
+</LIBRARY>
